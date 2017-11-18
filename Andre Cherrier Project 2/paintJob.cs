@@ -78,7 +78,7 @@ namespace Andre_Cherrier_Project_2
             totalPaintCost = 0;
             laborCost = 0;
             totalPaintJob = 0;
-    }
+        }
 
         private void messageButton_Click(object sender, EventArgs e)
         {

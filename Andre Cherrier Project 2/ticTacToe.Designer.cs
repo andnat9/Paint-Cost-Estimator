@@ -81,7 +81,6 @@
             this.gameName.Name = "gameName";
             this.gameName.Size = new System.Drawing.Size(0, 24);
             this.gameName.TabIndex = 1;
-            this.gameName.Click += new System.EventHandler(this.gameName_Click);
             // 
             // nameBox
             // 
@@ -109,7 +108,6 @@
             this.ticTacBox.TabIndex = 3;
             this.ticTacBox.TabStop = false;
             this.ticTacBox.Text = "Player 1 goes first.";
-            this.ticTacBox.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // winnerLabel
             // 

@@ -269,15 +269,6 @@ namespace Andre_Cherrier_Project_1
             }
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void gameName_Click(object sender, EventArgs e)
-        {
-
-        }
         //The nine buttons calling the method buttonPress
         private void button1_Click(object sender, EventArgs e)
         {
